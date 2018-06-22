@@ -24,4 +24,4 @@ Keywords: Arduino; Sensors; Datalogger; Embedded.
 
 ## LICENÇA (LICENSE)
 
-[MIT](https://github.com/robertobopereira/Dissertacao/blob/master/LICENSE.md)
+[MIT](https://github.com/robertobopereira/Tese/blob/master/LICENSE.md)
